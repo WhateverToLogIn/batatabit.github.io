@@ -108,7 +108,7 @@ main{
 	height: 200px;
 	margin: 0 auto;
 	margin-bottom: 50px;
-	background: url('/assets/img/Bitcoin.svg') center/cover no-repeat;
+	background: url('../assets/img/Bitcoin.svg') center/cover no-repeat;
 }
 .main-exchange-container h2{
 	margin-bottom: 30px;
@@ -197,14 +197,14 @@ main{
 	width: 15px;
 	height: 15px;
 	margin-left: 10px;
-	background: url('/assets/icons/trending-down.svg') center/cover no-repeat;
+	background: url('../assets/icons/trending-down.svg') center/cover no-repeat;
 }
 .currency-table--container .up{
 	display: inline-block;
 	width: 15px;
 	height: 15px;
 	margin-left: 10px;
-	background: url('/assets/icons/trending-up.svg') center/cover no-repeat;
+	background: url('../assets/icons/trending-up.svg') center/cover no-repeat;
 }
 .currency-table--date{
 	width: 190px;
@@ -248,7 +248,7 @@ main{
 	height: 25px;
 	top: -10px;
 	left: calc(50% - 20px);
-	background: url('/assets/icons/batata.svg') no-repeat;
+	background: url('../assets/icons/batata.svg') no-repeat;
 }
 .product-detail--title{
 	width: 90%;
@@ -288,28 +288,28 @@ main{
 	width: 20px;
 	height: 20px;
 	margin-bottom: 10px;
-	background: url('/assets/icons/clock.svg') center/cover no-repeat;
+	background: url('../assets/icons/clock.svg') center/cover no-repeat;
 }
 .product-detail--card .eye{
 	display: inline-block;
 	width: 20px;
 	height: 20px;
 	margin-bottom: 10px;
-	background: url('/assets/icons/eye.svg') center/cover no-repeat;
+	background: url('../assets/icons/eye.svg') center/cover no-repeat;
 }
 .product-detail--card .dollar{
 	display: inline-block;
 	width: 20px;
 	height: 20px;
 	margin-bottom: 10px;
-	background: url('/assets/icons/dollar-sign.svg') center/cover no-repeat;
+	background: url('../assets/icons/dollar-sign.svg') center/cover no-repeat;
 }
 .product-detail--card .check-circle{
 	display: inline-block;
 	width: 20px;
 	height: 20px;
 	margin-bottom: 10px;
-	background: url('/assets/icons/check-circle.svg') center/cover no-repeat;
+	background: url('../assets/icons/check-circle.svg') center/cover no-repeat;
 }
 .product--card-title{
 	margin-bottom: 15px;
@@ -328,7 +328,7 @@ main{
 	width: 100%;
 	min-width: 320px;
 	height: 65vh;
-	background: url('/assets/img/bitcoinbaby2x.jpg') center/cover no-repeat;
+	background: url('../assets/img/bitcoinbaby2x.jpg') center/cover no-repeat;
 }
 .bitcoin-img-container h2{
 	text-align: center;
